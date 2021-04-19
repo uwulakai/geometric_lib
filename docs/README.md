@@ -19,3 +19,8 @@
 - Square: `P = 4a`
 - Triangle: `P = a + b + c`
 
+
+# User agreement
+
+Please check out License Agreement for personal usage terms and limitations
+---
